@@ -1,24 +1,19 @@
-# README
+# Search me App.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple search app through the database.
 
-Things you may want to cover:
+## Software.
 
-* Ruby version
+* Ruby: 3.0.1
+* Rails: 7.0.2
+* Bootstrap.
 
-* System dependencies
+Have a wonderful day! :smiley:
+Greetings :love_you_gesture:
 
-* Configuration
+## Author.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Jorge Ortiz Mata.
+* San Luis Potosí S.L.P. México
+* ortiz.mata.jorge@gmail.com
+* +52 (444) 576 3034.
