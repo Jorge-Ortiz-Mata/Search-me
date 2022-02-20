@@ -1,0 +1,4 @@
+The total is: <%= @users_result.length %><br>
+<% @users_result.each do |user_result| %>
+    <%= user_result.name %>; <%= user_result.location %> <br>
+<% end %>
